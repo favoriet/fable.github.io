@@ -6,18 +6,19 @@
   "StaffPerPage": 5,
   "AvatarDisplayType": "head",
   "Ranks": {
-    "Founder": "pink",
-    "Owner": "cyan",
-    "Moderator": "red",
-    "Chatmod": "orange",
+    "Owner": "red",
+    "Admin": "orange",
+    "Moderator": "cyan",
+    "Donator": "pink",
     "Helper": "lime"
   },
   "Staff": [
-    { "name": "xItzSloth", "rank": "Founder" },
-    { "name": "xItzApex", "rank": "Owner" },
-    { "name": "ImFadedAF", "rank": "Moderator" },
-    { "name": "Sam", "rank": "Helper" },
-    { "name": "Daniel", "rank": "Helper" },
-    { "name": "NightmareDawns", "rank": "Founder" }
+    { "name": "Churchful", "rank": "Owner" },
+    { "name": "YJ.0", "rank": "Admin" },
+    { "name": "favoriet", "rank": "Admin" },
+    { "name": "Lion", "rank": "Moderator" },
+    { "name": "BlackSoggyBalls", "rank": "Donator" },
+    { "name": "NightmareDawns", "rank": "Helper" }
   ]
 }
+
