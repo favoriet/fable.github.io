@@ -1,9 +1,9 @@
 {
-  "Name": "Minecraft",
-  "ServerIP": "myminecraftserver.net",
-  "DiscordURL": "https://www.discord.gg",
+  "Name": "Fable SMP Roster",
+  "ServerIP": "play.fable.bob",
+  "DiscordURL": "https://discord.gg/U9DrjU5GtP",
   "Homepage": "/",
-  "StaffPerPage": 5,
+  "StaffPerPage": 10,
   "AvatarDisplayType": "head",
   "Ranks": {
     "Owner": "red",
@@ -21,4 +21,5 @@
     { "name": "NightmareDawns", "rank": "Helper" }
   ]
 }
+
 
